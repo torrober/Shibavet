@@ -1,0 +1,2 @@
+Martes,Consulta,1234567,60000
+Lunes,Baño,1234567,25000

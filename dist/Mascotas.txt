@@ -1,0 +1,7 @@
+Nombre,Raza,Edad,Sexo,Cedula del dueño
+Sparky,Shiba Inu,9,Macho,1234567
+Zeus,Pomerania,7,Macho,1234567
+Coraje,Chihuahua,10,Masculino,345673
+Jako,Schnauzer,5,Macho,1234567
+Copi-Copi,Criollo,4,Macho,4561234
+Yo no Fui,Pastor Aleman,7,Macho,4561234

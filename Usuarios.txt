@@ -1,0 +1,6 @@
+armin,YWRtaW4=,345673,0,1982/03/03
+mariohugo,MzFtaW51dG9z,1234,0,1972/07/27
+veterinario,dmV0MTIz,456231,1,2006/03/14
+admin,YWRtaW4=,9865432,2,1988/03/08
+arte,MTIzNDU=,2123456,0,2000/03/08
+nuevousuario,bWljb250cmE=,34567654,0,1997/03/10
